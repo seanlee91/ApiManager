@@ -1,4 +1,5 @@
-import cn.crap.utils.HttpPostGet;
+import cn.crap.utils.MD5;
+import cn.crap.utils.Tools;
 
 /**
  * @author Ehsan
@@ -6,8 +7,12 @@ import cn.crap.utils.HttpPostGet;
  */
 public class Test {
     public static void main(String args[]) {
-        String error = " insert into log      ( id,                       createTime,                       sequence,                       modelClass,                       modelName,                       type,                       updateBy,                       remark,                       identy,                       content )       values ( ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ? )";
-        int index = error.indexOf("insert into") + 11;
-        System.out.println(error.substring(index, error.length()).split(" ")[1].trim());
+//        String error = " insert into log      ( id,                       createTime,                       sequence,                       modelClass,                       modelName,                       type,                       updateBy,                       remark,                       identy,                       content )       values ( ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ?,                       ? )";
+//        int index = error.indexOf("insert into") + 11;
+//        System.out.println(error.substring(index, error.length()).split(" ")[1].trim());
+        String aaa = Tools.getChar(20);
+        System.out.println(aaa);
+        System.out.println(MD5.encrytMD5("", aaa));
+
     }
 }

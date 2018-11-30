@@ -1,12 +1,12 @@
 package cn.crap.framework;
 
-import java.io.Serializable;
-import java.util.HashMap;
-import java.util.Map;
-
 import cn.crap.enu.MyError;
 import cn.crap.utils.Page;
 import org.springframework.util.StringUtils;
+
+import java.io.Serializable;
+import java.util.HashMap;
+import java.util.Map;
 
 public class JsonResult implements Serializable {
 	private static final long serialVersionUID = 7553249056983455065L;

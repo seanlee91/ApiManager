@@ -1,10 +1,9 @@
 package cn.crap.service;
 
-import java.util.List;
-
-import cn.crap.dto.LoginInfoDto;
 import cn.crap.dto.PickDto;
 import cn.crap.framework.MyException;
+
+import java.util.List;
 
 public interface IPickService {
 

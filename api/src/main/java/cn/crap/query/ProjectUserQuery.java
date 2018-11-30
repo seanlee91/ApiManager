@@ -1,8 +1,5 @@
 package cn.crap.query;
 
-import cn.crap.framework.MyException;
-import cn.crap.utils.SafetyUtil;
-
 /**
  * @author Ehsan
  * @date 2018/6/30 14:17

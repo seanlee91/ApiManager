@@ -1,8 +1,8 @@
 package cn.crap.dto;
 
-import java.io.Serializable;
-
 import cn.crap.enu.DictionaryPropertyType;
+
+import java.io.Serializable;
 
 /**
  * 

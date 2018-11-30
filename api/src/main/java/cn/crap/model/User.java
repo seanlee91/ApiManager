@@ -1,5 +1,7 @@
 package cn.crap.model;
 
+import com.google.common.base.MoreObjects;
+
 import java.util.Date;
 
 public class User extends BasePo{
@@ -173,5 +175,28 @@ public class User extends BasePo{
 
     public void setPasswordSalt(String passwordSalt) {
         this.passwordSalt = passwordSalt == null ? null : passwordSalt.trim();
+    }
+
+    @Override
+    public String toString() {
+        return MoreObjects.toStringHelper(this)
+                .add("id", id)
+                .add("userName", userName)
+                .add("password", password)
+                .add("trueName", trueName)
+                .add("roleId", roleId)
+                .add("roleName", roleName)
+                .add("auth", auth)
+                .add("authName", authName)
+                .add("createTime", createTime)
+                .add("status", status)
+                .add("sequence", sequence)
+                .add("type", type)
+                .add("email", email)
+                .add("avatarUrl", avatarUrl)
+                .add("loginType", loginType)
+                .add("thirdlyId", thirdlyId)
+                .add("passwordSalt", passwordSalt)
+                .toString();
     }
 }

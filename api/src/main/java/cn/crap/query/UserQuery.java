@@ -1,5 +1,7 @@
 package cn.crap.query;
 
+import com.google.common.base.MoreObjects;
+
 /**
  * @author Ehsan
  * @date 2018/6/30 14:17
@@ -79,5 +81,18 @@ public class UserQuery extends BaseQuery<UserQuery>{
     public UserQuery setUserName(String userName) {
         this.userName = userName;
         return this;
+    }
+
+    @Override
+    public String toString() {
+        return MoreObjects.toStringHelper(this)
+                .add("thirdlyId", thirdlyId)
+                .add("equalEmail", equalEmail)
+                .add("loginType", loginType)
+                .add("equalUserName", equalUserName)
+                .add("email", email)
+                .add("trueName", trueName)
+                .add("userName", userName)
+                .toString();
     }
 }

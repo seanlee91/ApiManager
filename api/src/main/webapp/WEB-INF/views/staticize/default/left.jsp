@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
+<%@ page language="java" pageEncoding="utf-8"%>
 	<div class="col-xs-12 col-md-3 p0 m0">
 				<div class="r2 BGFFF p20 C555 mr15 col-md-mr0">
 					<table>

@@ -1,8 +1,7 @@
 package cn.crap.utils;
 
-import java.util.List;
-
 import javax.servlet.http.HttpServletRequest;
+import java.util.List;
 
 public class MyString {
 

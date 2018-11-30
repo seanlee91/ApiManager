@@ -1,7 +1,6 @@
 package cn.crap.dto;
 
 import java.io.Serializable;
-import java.util.Date;
 
 /**
  * Automatic generation by tools

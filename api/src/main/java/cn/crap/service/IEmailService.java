@@ -1,10 +1,9 @@
 package cn.crap.service;
 
-import java.io.UnsupportedEncodingException;
+import cn.crap.dto.MailBean;
 
 import javax.mail.MessagingException;
-
-import cn.crap.dto.MailBean;
+import java.io.UnsupportedEncodingException;
 
 public interface IEmailService {
 

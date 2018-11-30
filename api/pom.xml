@@ -17,9 +17,16 @@
 		<mybatis.version>3.2.8</mybatis.version>
 		<mybatis-generator-core.version>1.3.2</mybatis-generator-core.version>
 		<mybatis-spring.version>1.2.2</mybatis-spring.version>
-		<mysql-connector-java.version>5.1.34</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.12</mysql-connector-java.version>
 	</properties>
 	<dependencies>
+
+		<!--  lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.4</version>
+		</dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
@@ -349,6 +356,16 @@
 					<source>1.7</source>
 					<target>1.7</target>
 					<encoding>UTF8</encoding>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.mortbay.jetty</groupId>
+				<artifactId>jetty-maven-plugin</artifactId>
+				<version>7.6.14.v20131031</version>
+				<configuration>
+					<webAppConfig>
+						<contextPath>/</contextPath>
+					</webAppConfig>
 				</configuration>
 			</plugin>
 		</plugins>

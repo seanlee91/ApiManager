@@ -64,23 +64,15 @@
               pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
         <pkg:xmlData>
             <w:document mc:Ignorable="w14 w15 wp14"
-                        xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-                        xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main"
                         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-                        xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+                        xmlns:o="urn:schemas-microsoft-com:office:office"
                         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                         xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
                         xmlns:v="urn:schemas-microsoft-com:vml"
-                        xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-                        xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-                        xmlns:w10="urn:schemas-microsoft-com:office:word"
                         xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                         xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                         xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                        xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-                        xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-                        xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-                        xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+            >
                 <w:body>
                     <w:p w14:paraId="206EF3EB" w14:textId="5B9037EA" w:rsidR="00E4649D" w:rsidRPr="009800CB"
                          w:rsidRDefault="00E4649D">
@@ -2117,23 +2109,15 @@
               pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml">
         <pkg:xmlData>
             <w:footnotes mc:Ignorable="w14 w15 wp14"
-                         xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-                         xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main"
                          xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-                         xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+                         xmlns:o="urn:schemas-microsoft-com:office:office"
                          xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                          xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
                          xmlns:v="urn:schemas-microsoft-com:vml"
-                         xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-                         xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-                         xmlns:w10="urn:schemas-microsoft-com:office:word"
                          xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                          xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                          xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                         xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-                         xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-                         xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-                         xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+            >
                 <w:footnote w:type="separator" w:id="-1">
                     <w:p w14:paraId="36FE0F21" w14:textId="77777777" w:rsidR="005B7B87" w:rsidRDefault="005B7B87"
                          w:rsidP="00366784">
@@ -2157,23 +2141,15 @@
               pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml">
         <pkg:xmlData>
             <w:endnotes mc:Ignorable="w14 w15 wp14"
-                        xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-                        xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main"
                         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-                        xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+                        xmlns:o="urn:schemas-microsoft-com:office:office"
                         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                         xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
                         xmlns:v="urn:schemas-microsoft-com:vml"
-                        xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-                        xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-                        xmlns:w10="urn:schemas-microsoft-com:office:word"
                         xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                         xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                         xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                        xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-                        xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-                        xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-                        xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+            >
                 <w:endnote w:type="separator" w:id="-1">
                     <w:p w14:paraId="5DC9D19C" w14:textId="77777777" w:rsidR="005B7B87" w:rsidRDefault="005B7B87"
                          w:rsidP="00366784">
@@ -2197,23 +2173,15 @@
               pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml">
         <pkg:xmlData>
             <w:hdr mc:Ignorable="w14 w15 wp14"
-                   xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-                   xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main"
                    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-                   xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+                   xmlns:o="urn:schemas-microsoft-com:office:office"
                    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
                    xmlns:v="urn:schemas-microsoft-com:vml"
-                   xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-                   xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-                   xmlns:w10="urn:schemas-microsoft-com:office:word"
                    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                   xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-                   xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-                   xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-                   xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+            >
                 <w:sdt>
                     <w:sdtPr>
                         <w:rPr>
@@ -2264,23 +2232,15 @@
               pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml">
         <pkg:xmlData>
             <w:ftr mc:Ignorable="w14 w15 wp14"
-                   xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-                   xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main"
                    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-                   xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+                   xmlns:o="urn:schemas-microsoft-com:office:office"
                    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
                    xmlns:v="urn:schemas-microsoft-com:vml"
-                   xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-                   xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-                   xmlns:w10="urn:schemas-microsoft-com:office:word"
                    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                   xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-                   xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-                   xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-                   xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+            >
                 <w:p w14:paraId="44D1E47E" w14:textId="04B87883" w:rsidR="001B2B3C" w:rsidRDefault="001B2B3C">
                     <w:pPr>
                         <w:pStyle w:val="a5"/>
@@ -3658,11 +3618,11 @@
                         xmlns:o="urn:schemas-microsoft-com:office:office"
                         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                         xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
-                        xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word"
+                        xmlns:v="urn:schemas-microsoft-com:vml"
                         xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                         xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                         xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                        xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main">
+            >
                 <w:zoom w:percent="140"/>
                 <w:bordersDoNotSurroundHeader/>
                 <w:bordersDoNotSurroundFooter/>
@@ -3826,11 +3786,11 @@
                         xmlns:o="urn:schemas-microsoft-com:office:office"
                         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                         xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
-                        xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word"
+                        xmlns:v="urn:schemas-microsoft-com:vml"
                         xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                         xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                         xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                        xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main">
+            >
                 <w:view w:val="normal"/>
                 <w:bordersDoNotSurroundHeader/>
                 <w:bordersDoNotSurroundFooter/>
@@ -3903,24 +3863,15 @@
               pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml">
         <pkg:xmlData>
             <w:glossaryDocument mc:Ignorable="w14 w15 wp14"
-                                xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-                                xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main"
                                 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-                                xmlns:mv="urn:schemas-microsoft-com:mac:vml"
                                 xmlns:o="urn:schemas-microsoft-com:office:office"
                                 xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                                 xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
                                 xmlns:v="urn:schemas-microsoft-com:vml"
-                                xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-                                xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-                                xmlns:w10="urn:schemas-microsoft-com:office:word"
                                 xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                                 xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                                 xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                                xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-                                xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-                                xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-                                xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+            >
                 <w:docParts>
                     <w:docPart>
                         <w:docPartPr>
@@ -4831,23 +4782,15 @@
               pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml">
         <pkg:xmlData>
             <w:numbering mc:Ignorable="w14 w15 wp14"
-                         xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
-                         xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main"
                          xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-                         xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+                         xmlns:o="urn:schemas-microsoft-com:office:office"
                          xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
                          xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
                          xmlns:v="urn:schemas-microsoft-com:vml"
-                         xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
-                         xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
-                         xmlns:w10="urn:schemas-microsoft-com:office:word"
                          xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
                          xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
                          xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
-                         xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
-                         xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
-                         xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
-                         xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+            >
                 <w:abstractNum w:abstractNumId="0">
                     <w:nsid w:val="059D76D0"/>
                     <w:multiLevelType w:val="hybridMultilevel"/>
@@ -5904,7 +5847,6 @@
         <pkg:xmlData>
             <cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
                                xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-                               xmlns:dcmitype="http://purl.org/dc/dcmitype/"
                                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <dc:title>开源API接口管理系统-CRAP API</dc:title>
                 <dc:subject/>

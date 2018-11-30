@@ -1,5 +1,7 @@
 package cn.crap.dto;
 
+import com.google.common.base.MoreObjects;
+
 import java.io.Serializable;
 
 public class LoginDto implements Serializable{
@@ -72,5 +74,20 @@ public class LoginDto implements Serializable{
 
 	public void setEmail(String email) {
 		this.email = email;
+	}
+
+	@Override
+	public String toString() {
+		return MoreObjects.toStringHelper(this)
+				.add("id", id)
+				.add("userName", userName)
+				.add("password", password)
+				.add("rpassword", rpassword)
+				.add("remberPwd", remberPwd)
+				.add("verificationCode", verificationCode)
+				.add("sessionAdminName", sessionAdminName)
+				.add("tipMessage", tipMessage)
+				.add("email", email)
+				.toString();
 	}
 }

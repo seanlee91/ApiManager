@@ -1,7 +1,7 @@
 package cn.crap.service.tool;
 
-import cn.crap.model.Project;
 import cn.crap.beans.Config;
+import cn.crap.model.Project;
 import cn.crap.service.ProjectService;
 import cn.crap.utils.MyString;
 import com.google.common.cache.Cache;

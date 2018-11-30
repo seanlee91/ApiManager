@@ -1,10 +1,10 @@
 package cn.crap.dto;
 
+import org.springframework.util.CollectionUtils;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
-
-import org.springframework.util.CollectionUtils;
 
 public class InterfacePDFDto implements Serializable{
 	/**

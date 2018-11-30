@@ -1,13 +1,9 @@
 package cn.crap.utils;
 
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
-
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+
+import java.io.*;
 
 public class SerializeUtil implements Serializable{
 	private static final long serialVersionUID = 2625611887089949567L;

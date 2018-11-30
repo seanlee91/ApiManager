@@ -1,7 +1,5 @@
 package cn.crap.dto;
 
-import java.util.Date;
-
 /**
  * Automatic generation by tools
  * dto: exchange data with view

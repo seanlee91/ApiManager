@@ -1,12 +1,12 @@
 package cn.crap.utils;
 
-import java.io.IOException;
-
 import com.itextpdf.text.BaseColor;
 import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Font;
 import com.itextpdf.text.FontProvider;
 import com.itextpdf.text.pdf.BaseFont;
+
+import java.io.IOException;
 
 public class ChinaFont implements FontProvider {
 

@@ -1,10 +1,5 @@
 package cn.crap.utils;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 import cn.crap.dto.DictionaryDto;
 import cn.crap.enu.ArticleType;
 import cn.crap.enu.DictionaryPropertyType;
@@ -12,6 +7,11 @@ import cn.crap.enu.MyError;
 import cn.crap.framework.MyException;
 import cn.crap.model.ArticleWithBLOBs;
 import net.sf.json.JSONArray;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class SqlToDictionaryUtil {
 	

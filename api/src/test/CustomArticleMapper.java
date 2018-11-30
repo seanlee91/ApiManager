@@ -1,9 +1,7 @@
 package cn.crap.dao.custom;
 
-import cn.crap.dao.custom.SqlProvider;
 import cn.crap.model.mybatis.Article;
 import cn.crap.utils.Page;
-import org.apache.ibatis.annotations.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;

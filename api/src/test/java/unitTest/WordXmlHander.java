@@ -3,7 +3,8 @@ package unitTest;
 import cn.crap.utils.Tools;
 import cn.crap.utils.WordUtils;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 使用英文占位符导出，xml中会被分割成多个

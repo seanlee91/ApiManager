@@ -1,18 +1,11 @@
 package cn.crap.utils;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStreamWriter;
-import java.io.Writer;
-import java.net.URLEncoder;
-import java.util.Map;
-import javax.servlet.ServletOutputStream;
-import javax.servlet.http.HttpServletResponse;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
+
+import javax.servlet.http.HttpServletResponse;
+import java.io.*;
+import java.util.Map;
 
 public class WordUtils {
     private static Configuration configuration = null;

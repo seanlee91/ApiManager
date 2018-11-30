@@ -1,18 +1,16 @@
 package cn.crap.service.thirdly;
 
-import java.util.Map;
-
-import cn.crap.enu.MyError;
-import org.springframework.stereotype.Service;
-
-import com.alibaba.fastjson.JSON;
-
+import cn.crap.beans.Config;
 import cn.crap.dto.thirdly.GitHubAccessToken;
 import cn.crap.dto.thirdly.GitHubUser;
+import cn.crap.enu.MyError;
 import cn.crap.framework.MyException;
-import cn.crap.beans.Config;
 import cn.crap.utils.HttpPostGet;
 import cn.crap.utils.Tools;
+import com.alibaba.fastjson.JSON;
+import org.springframework.stereotype.Service;
+
+import java.util.Map;
 
 @Service
 public class OschinaService {

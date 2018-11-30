@@ -1,9 +1,9 @@
 package cn.crap.dto;
 
+import cn.crap.model.Menu;
+
 import java.io.Serializable;
 import java.util.List;
-
-import cn.crap.model.Menu;
 
 public class MenuWithSubMenuDto implements Serializable{
 

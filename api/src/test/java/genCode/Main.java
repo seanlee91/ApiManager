@@ -1,8 +1,8 @@
 package genCode;
 
+import genCode.utils.CenUtil;
 import genCode.utils.GenMain;
 import genCode.utils.MybatisUtil;
-import genCode.utils.CenUtil;
 
 import java.io.File;
 

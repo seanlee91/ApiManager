@@ -555,7 +555,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES ('admin','admin','96e79218965eb72c92a549dd5a330112','超级管理员','super,','超级管理员,','','','2016-03-29 04:24:00',1,0,100,'ihsantang@163.com','',0,'',NULL);
+INSERT INTO `user` VALUES ('admin','admin','7ef92121e88d46dccff5ae2364020fe6','超级管理员','super','超级管理员','','','2018-08-29 04:24:00',1,0,100,'seanlee91220@sina.com','',0,'','znwxK7tjg9tLRN8LJz4A');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 

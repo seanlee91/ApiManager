@@ -1,10 +1,9 @@
 package cn.crap.utils;
-import javax.servlet.http.Cookie;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 
 import cn.crap.framework.ThreadContext;
 import org.apache.commons.codec.binary.Base64;
+
+import javax.servlet.http.Cookie;
 
 
 public class MyCookie {

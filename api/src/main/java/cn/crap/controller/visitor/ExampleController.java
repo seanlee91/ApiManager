@@ -1,15 +1,14 @@
 package cn.crap.controller.visitor;
 
+import cn.crap.dto.XmlParamsDto;
+import cn.crap.framework.JsonResult;
+import cn.crap.framework.MyException;
+import cn.crap.framework.base.BaseController;
 import cn.crap.model.Article;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
-
-import cn.crap.dto.XmlParamsDto;
-import cn.crap.framework.JsonResult;
-import cn.crap.framework.MyException;
-import cn.crap.framework.base.BaseController;
 
 /**
  * 测试接口

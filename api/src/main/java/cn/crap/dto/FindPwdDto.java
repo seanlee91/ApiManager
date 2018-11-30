@@ -1,10 +1,10 @@
 package cn.crap.dto;
 
-import java.io.Serializable;
-
 import cn.crap.enu.MyError;
 import cn.crap.framework.MyException;
 import cn.crap.utils.MyString;
+
+import java.io.Serializable;
 
 public class FindPwdDto implements Serializable{
 	/**

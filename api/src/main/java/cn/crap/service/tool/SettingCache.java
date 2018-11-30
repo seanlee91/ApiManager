@@ -1,11 +1,11 @@
 package cn.crap.service.tool;
 
 import cn.crap.adapter.SettingAdapter;
+import cn.crap.beans.Config;
 import cn.crap.dto.SettingDto;
 import cn.crap.enu.SettingEnum;
 import cn.crap.model.Setting;
 import cn.crap.service.SettingService;
-import cn.crap.beans.Config;
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
 import org.springframework.beans.factory.annotation.Autowired;

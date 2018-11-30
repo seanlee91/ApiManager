@@ -1,10 +1,10 @@
 package cn.crap.service;
 
-import java.io.IOException;
-import java.util.List;
-
 import cn.crap.dto.SearchDto;
 import cn.crap.utils.Page;
+
+import java.io.IOException;
+import java.util.List;
 
 public interface ISearchService{
 
